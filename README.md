@@ -8,4 +8,5 @@ I also will add an API which helps to save input data from sensors to the server
 ![Schema of project](./Schema.jpg)
 
 ## List of Contents 
+
 1. [Components List](./Components List.md)
