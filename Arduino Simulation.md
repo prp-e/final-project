@@ -70,3 +70,26 @@ This is the library used for DHT sensors. Also this line :
 dht DHT
 ``` 
 makes an object of DHT type. 
+
+### viod setup() 
+
+```
+  pinMode(GREEN_LED, OUTPUT); 
+  pinMode(RED_LED, OUTPUT); 
+  Serial.begin(9600); 
+``` 
+
+First two lines, make 2 pins outputs, third line is responsible for starting a serial communication with the computer. 
+
+```
+  digitalWrite(RED_LED, HIGH); 
+  delay(333); 
+  digitalWrite(RED_LED, LOW); 
+  delay(333); 
+  digitalWrite(RED_LED, HIGH); 
+  delay(333); 
+  digitalWrite(RED_LED, LOW); 
+  delay(300);
+  digitalWrite(GREEN_LED, HIGH);
+``` 
+These lines are for user to make sure circuit is on service. The red LED blinks 3 times then Green one stays on. It means circuit is okay and device works well. 
