@@ -59,7 +59,7 @@ In this code, we have different parts. The parts will be explained below.
 ``` 
 These three macros define which pins are used for Green LED, Red LED and DHT11 sensor. 
 
-### Preprocessors 
+### Part 2 : Preprocessors 
 
 ```
 #include <dht.h> 
@@ -71,7 +71,7 @@ dht DHT
 ``` 
 makes an object of DHT type. 
 
-### viod setup() 
+### Part 3 : viod setup() 
 
 ```
   pinMode(GREEN_LED, OUTPUT); 
