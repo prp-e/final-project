@@ -111,3 +111,7 @@ This line is the data coming from DHT11, we'll need this to show the user what h
 ``` 
 
 These lines are responsible for showing the data each five seconds. 
+
+## The Result 
+
+![Serial monitor](./Monitor.jpg)
