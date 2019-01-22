@@ -5,4 +5,4 @@ I also will add an API which helps to save input data from sensors to the server
 
 ## The schema of project 
 
-![Schema of project](./Schema.png)
+![Schema of project](./Schema.jpg)
