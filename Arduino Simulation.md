@@ -93,3 +93,21 @@ First two lines, make 2 pins outputs, third line is responsible for starting a s
   digitalWrite(GREEN_LED, HIGH);
 ``` 
 These lines are for user to make sure circuit is on service. The red LED blinks 3 times then Green one stays on. It means circuit is okay and device works well. 
+
+### void loop() 
+
+```
+int chk = DHT.read11(DHT11_PIN);
+``` 
+
+This line is the data coming from DHT11, we'll need this to show the user what happens in a room. 
+
+```
+  Serial.print("Temp. : "); 
+  Serial.println(DHT.temperature); 
+  Serial.print("Humid. : "); 
+  Serial.println(DHT.humidity); 
+  delay(5000);
+``` 
+
+These lines are responsible for showing the data each five seconds. 
