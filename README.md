@@ -9,4 +9,4 @@ I also will add an API which helps to save input data from sensors to the server
 
 ## List of Contents 
 
-1. [Components List](./Components List.md)
+1. [Components List](./Components%20List.md)
