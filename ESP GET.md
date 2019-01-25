@@ -41,3 +41,5 @@ It opens an internet connection over WiFi and also, shows us the connection usin
 It receives current Tehran time and shows it on a serial monitor. 
 
 ## The Result
+
+![Serial Monitor](./Monitor2.jpg)
