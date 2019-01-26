@@ -1,4 +1,5 @@
-To find useful links, please visit [Links](./links.md).
+# Summary
+* [Links](./links.md).
 * [Introduction](./README.md)
 * [Components List](./Components%20List.md)
 * [Arduino Simulation and Code](./Arduino%20Simulation.md)
