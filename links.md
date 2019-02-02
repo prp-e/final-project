@@ -4,3 +4,4 @@
 * [Quick Start to NodeMCU (ESP8266)](https://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/)
 * [DHT11 Temperature and Humidity Sensor on ESP8266](https://roboindia.com/tutorials/DHT11-NodeMCU-arduino)
 * [ESP8266 GET example](https://techtutorialsx.com/2016/07/17/esp8266-http-get-requests/)
+* [How to write a dockerfile (Persian)](https://blog.fandogh.cloud/articles/how-write-docker-file.html)
